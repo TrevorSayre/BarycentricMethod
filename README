@@ -1,0 +1,15 @@
+This is a Processing sketch demonstrating the barycentric method for testing if a point is inside of a triangle.
+
+You will need Processing in order to run the sketch:
+http://www.processing.org
+
+This sketch is modelled after the flash example on Black Pawn:
+http://www.blackpawn.com/texts/pointinpoly/default.html
+
+Instructions:
+Move mouse to demonstrate point in triangle detection
+Click mouse to generate a new triangle
+
+Trevor Sayre
+sayret@gmail.com
+November 4, 2010
